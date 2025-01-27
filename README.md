@@ -33,7 +33,10 @@ How can data transform grocery delivery? This project dives deep into Blinkit's 
 4. **Interactive Filters:**  
    - Dynamic slicers for Outlet Location, Outlet Size, and Item Type.  
 
----
+
+
+![image](https://github.com/user-attachments/assets/d4e88c2b-c01d-41e6-a3f4-99b1022bd7eb)
+
 
 ## Key Insights & Findings  
 
